@@ -1,0 +1,328 @@
+body {
+    background-color: #0F0F0F;
+}
+
+.main {
+    position: absolute;
+    width: 410px;
+    height: 410px;
+    padding: 100px;
+    background-color: #0F0F0F;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.prop {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.prop {
+    position: absolute;
+    border-radius: 50%;
+}
+
+.prop_Void {
+    position: absolute;
+    border-radius: 50%;
+    background-color: #0F0f0f;
+}
+
+.circle1 {
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(30deg, #fff 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__1 {
+    width: 386px;
+    height: 386px;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+.circle2 {
+    width: 380px;
+    height: 380px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background: linear-gradient(30deg, #a9a9a9 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__2 {
+    width: 360px;
+    height: 360px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.circle3 {
+    width: 350px;
+    height: 350px;
+    margin-left: 25px;
+    margin-top: 25px;
+    background: linear-gradient(10deg, #fff 100%, transparent 100%) 0 0;
+    background-size: 84% 84%;
+    background-repeat: no-repeat;
+}
+
+.void__3 {
+    width: 340px;
+    height: 340px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.circle3_1 {
+    width: 350px;
+    height: 350px;
+    margin-left: 25px;
+    margin-top: 25px;
+    background: linear-gradient(40deg, #fff 40%, transparent 40%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__3_1 {
+    width: 320px;
+    height: 320px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.circle3_2 {
+    width: 320px;
+    height: 320px;
+    margin-left: 40px;
+    margin-top: 40px;
+    background: linear-gradient(50deg, #fff 50%, transparent 50%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__3_2 {
+    width: 306px;
+    height: 306px;
+    margin-left: 47px;
+    margin-top: 47px;
+}
+
+.circle4 {
+    width: 310px;
+    height: 310px;
+    margin-left: 45px;
+    margin-top: 45px;
+    background: linear-gradient(100deg, #a9a9a9 100%, transparent 100%) 0 0;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+}
+
+.void__4 {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.circle5 {
+    width: 290px;
+    height: 290px;
+    margin-left: 55px;
+    margin-top: 55px;
+    background: linear-gradient(40deg, #fff 40%, transparent 40%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__5 {
+    width: 260px;
+    height: 260px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.circle6 {
+    width: 262px;
+    height: 262px;
+    margin-left: 69px;
+    margin-top: 69px;
+    background: linear-gradient(40deg, #fff 100%, transparent 100%) 0 0;
+    background-size: 70% 70%;
+    background-repeat: no-repeat;
+}
+
+.void__6 {
+    width: 250px;
+    height: 250px;
+    margin-left: 75px;
+    margin-top: 75px;
+}
+
+.circle7 {
+    width: 230px;
+    height: 230px;
+    margin-left: 85px;
+    margin-top: 85px;
+    background: linear-gradient(40deg, #a9a9a9 100%, transparent 100%) 0 0;
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+}
+
+.void__7 {
+    width: 220px;
+    height: 220px;
+    margin-left: 90px;
+    margin-top: 90px;
+}
+
+.circle7_1 {
+    width: 222px;
+    height: 222px;
+    margin-left: 89px;
+    margin-top: 89px;
+    background: linear-gradient(50deg, #a9a9a9 50%, transparent 50%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__7_1 {
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.circle7_2 {
+    width: 204px;
+    height: 204px;
+    margin-left: 98px;
+    margin-top: 98px;
+    background: linear-gradient(50deg, #a9a9a9 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__7_2 {
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.circle8 {
+    width: 180px;
+    height: 180px;
+    margin-left: 110px;
+    margin-top: 110px;
+    background: linear-gradient(50deg, #fff 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__8 {
+    width: 160px;
+    height: 160px;
+    margin-left: 120px;
+    margin-top: 120px;
+}
+
+.circle9 {
+    width: 150px;
+    height: 150px;
+    margin-left: 125px;
+    margin-top: 125px;
+    background: linear-gradient(50deg, #fff 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__9 {
+    width: 146px;
+    height: 146px;
+    margin-left: 127px;
+    margin-top: 127px;
+}
+
+.circle10 {
+    width: 140px;
+    height: 140px;
+    margin-left: 130px;
+    margin-top: 130px;
+    background: linear-gradient(50deg, #474747 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.circle11 {
+    width: 130px;
+    height: 130px;
+    margin-left: 135px;
+    margin-top: 135px;
+    background: linear-gradient(50deg, #fff 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__11 {
+    width: 116px;
+    height: 116px;
+    margin-left: 142px;
+    margin-top: 142px;
+}
+
+.circle11 {
+    width: 118px;
+    height: 118px;
+    margin-left: 141px;
+    margin-top: 141px;
+    background: linear-gradient(60deg, #fff 60%, transparent 60%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__12 {
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.circle13 {
+    width: 98px;
+    height: 98px;
+    margin-left: 151px;
+    margin-top: 151px;
+    background: linear-gradient(100deg, #a9a9a9 100%, transparent 100%) 0 0;
+    background-size: 75% 75%;
+    background-repeat: no-repeat;
+}
+
+.void__13 {
+    width: 90px;
+    height: 90px;
+    margin-left: 155px;
+    margin-top: 155px;
+}
+
+.circle14 {
+    width: 98px;
+    height: 98px;
+    margin-left: 151px;
+    margin-top: 151px;
+    background: linear-gradient(30deg, #a9a9a9 100%, transparent 100%) 0 0;
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.void__14 {
+    width: 80px;
+    height: 80px;
+    margin-left: 160px;
+    margin-top: 160px;
+}
